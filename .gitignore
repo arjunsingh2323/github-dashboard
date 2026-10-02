@@ -1,0 +1,9 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Environment/secrets (good habit even if unused yet)
+.env
